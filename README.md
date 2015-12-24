@@ -7,7 +7,7 @@ This is for testing BMS FTP only.
 
 ***DO NOT USE IN PRODUCTION***
 
-#### Get it, build it, run it
+#### Get it, Build it, Run it
 ```bash
 git clone git@github.com:carlosguillen/docker-vsftpd-anon_writable.git
 cd docker-vsftpd-anon_writable
