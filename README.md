@@ -3,7 +3,9 @@
 ### Writable anonymous FTP server 
 
 Runs a Docker image with vsftpd using anonymous access with writable folders. 
-This is for testing BMS FTP only. DO NOT USE IN PRODUCTION.
+This is for testing BMS FTP only. 
+
+***DO NOT USE IN PRODUCTION***
 
 #### Get it, build it, run it
 ```bash
